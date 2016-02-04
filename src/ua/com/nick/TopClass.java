@@ -8,6 +8,13 @@ public class TopClass {
 	
 	public static void tellTruth(String name){
 		System.out.println(name+" is the worst coder in the UNIVERSE! Kek");
+		asdasd
+		dasdas
+		dasdas
+		dasdasd
+		dasdasdasd
+		dasdasddasdasd
+		dasdas
 	}
 
 }
