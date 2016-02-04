@@ -7,7 +7,7 @@ public class TopClass {
 }
 	
 	public static void tellTruth(String name){
-		System.out.println(name+" is the best coder!");
+		System.out.println(name+" is the worst coder in the UNIVERSE!");
 	}
 
 }
